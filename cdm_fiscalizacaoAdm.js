@@ -1,5 +1,3 @@
-
-
 // VANESSA BARROS - 14.199
 var form;
 var codigoEtapa;
